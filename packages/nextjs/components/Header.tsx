@@ -97,7 +97,7 @@ export const Header = () => {
             <Image alt="SE2 logo" className="cursor-pointer" fill src="/logo.svg" />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">SRE Challenges</span>
+            <span className="font-bold leading-tight">nexo</span>
             <span className="text-xs">Decentralized Staking App</span>
           </div>
         </Link>
